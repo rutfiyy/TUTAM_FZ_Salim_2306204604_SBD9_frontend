@@ -1,4 +1,4 @@
-const BASE_URL = 'tutam-fz-salim-2306204604-sbd-9-backend-jbmoj44tx.vercel.app';
+const BASE_URL = 'tutam-fz-salim-2306204604-sbd-9-backend.vercel.app';
 
 // Function to fetch all cards
 export const fetchCards = async () => {
